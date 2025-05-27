@@ -1,7 +1,0 @@
-C:\Visual\Podstawy C#\zadaniepetle5\bin\Debug\zadaniepetle5.exe.config
-C:\Visual\Podstawy C#\zadaniepetle5\bin\Debug\zadaniepetle5.exe
-C:\Visual\Podstawy C#\zadaniepetle5\bin\Debug\zadaniepetle5.pdb
-C:\Visual\Podstawy C#\zadaniepetle5\obj\Debug\zadaniepetle5.csproj.AssemblyReference.cache
-C:\Visual\Podstawy C#\zadaniepetle5\obj\Debug\zadaniepetle5.csproj.CoreCompileInputs.cache
-C:\Visual\Podstawy C#\zadaniepetle5\obj\Debug\zadaniepetle5.exe
-C:\Visual\Podstawy C#\zadaniepetle5\obj\Debug\zadaniepetle5.pdb

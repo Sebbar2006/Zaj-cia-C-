@@ -1,0 +1,8 @@
+C:\Visual\poddajesie\poddajesie\zadanie8tabliczki\obj\Debug\zadanie8tabliczki.csproj.AssemblyReference.cache
+C:\Visual\poddajesie\poddajesie\zadanie8tabliczki\obj\Debug\zadanie8tabliczki.csproj.CoreCompileInputs.cache
+C:\Visual\poddajesie\poddajesie\zadanie8tabliczki\bin\Debug\zadanie8tabliczki.exe.config
+C:\Visual\poddajesie\poddajesie\zadanie8tabliczki\bin\Debug\zadanie8tabliczki.exe
+C:\Visual\poddajesie\poddajesie\zadanie8tabliczki\bin\Debug\zadanie8tabliczki.pdb
+C:\Visual\poddajesie\poddajesie\zadanie8tabliczki\obj\Debug\zadanie8tabliczki.exe
+C:\Visual\poddajesie\poddajesie\zadanie8tabliczki\obj\Debug\zadanie8tabliczki.pdb
+C:\Visual\poddajesie\poddajesie\zadanie8tabliczki\obj\Debug\zadanie8tabliczki.exe.config

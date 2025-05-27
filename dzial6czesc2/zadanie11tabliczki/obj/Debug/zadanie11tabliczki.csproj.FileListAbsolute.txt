@@ -1,0 +1,8 @@
+C:\Visual\poddajesie\poddajesie\zadanie11tabliczki\bin\Debug\zadanie11tabliczki.exe.config
+C:\Visual\poddajesie\poddajesie\zadanie11tabliczki\bin\Debug\zadanie11tabliczki.exe
+C:\Visual\poddajesie\poddajesie\zadanie11tabliczki\bin\Debug\zadanie11tabliczki.pdb
+C:\Visual\poddajesie\poddajesie\zadanie11tabliczki\obj\Debug\zadanie11tabliczki.csproj.AssemblyReference.cache
+C:\Visual\poddajesie\poddajesie\zadanie11tabliczki\obj\Debug\zadanie11tabliczki.csproj.CoreCompileInputs.cache
+C:\Visual\poddajesie\poddajesie\zadanie11tabliczki\obj\Debug\zadanie11tabliczki.exe
+C:\Visual\poddajesie\poddajesie\zadanie11tabliczki\obj\Debug\zadanie11tabliczki.pdb
+C:\Visual\poddajesie\poddajesie\zadanie11tabliczki\obj\Debug\zadanie11tabliczki.exe.config

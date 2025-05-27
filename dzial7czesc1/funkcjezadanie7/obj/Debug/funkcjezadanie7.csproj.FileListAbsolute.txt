@@ -1,0 +1,7 @@
+C:\Visual\poddajesie\poddajesie\funkcjezadanie7\bin\Debug\funkcjezadanie7.exe.config
+C:\Visual\poddajesie\poddajesie\funkcjezadanie7\bin\Debug\funkcjezadanie7.exe
+C:\Visual\poddajesie\poddajesie\funkcjezadanie7\bin\Debug\funkcjezadanie7.pdb
+C:\Visual\poddajesie\poddajesie\funkcjezadanie7\obj\Debug\funkcjezadanie7.csproj.AssemblyReference.cache
+C:\Visual\poddajesie\poddajesie\funkcjezadanie7\obj\Debug\funkcjezadanie7.csproj.CoreCompileInputs.cache
+C:\Visual\poddajesie\poddajesie\funkcjezadanie7\obj\Debug\funkcjezadanie7.exe
+C:\Visual\poddajesie\poddajesie\funkcjezadanie7\obj\Debug\funkcjezadanie7.pdb

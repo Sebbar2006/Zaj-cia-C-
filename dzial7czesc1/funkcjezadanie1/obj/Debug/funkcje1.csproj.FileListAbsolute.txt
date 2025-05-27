@@ -1,0 +1,8 @@
+C:\Visual\poddajesie\poddajesie\funkcje1\bin\Debug\funkcje1.exe.config
+C:\Visual\poddajesie\poddajesie\funkcje1\bin\Debug\funkcje1.exe
+C:\Visual\poddajesie\poddajesie\funkcje1\bin\Debug\funkcje1.pdb
+C:\Visual\poddajesie\poddajesie\funkcje1\obj\Debug\funkcje1.csproj.AssemblyReference.cache
+C:\Visual\poddajesie\poddajesie\funkcje1\obj\Debug\funkcje1.csproj.CoreCompileInputs.cache
+C:\Visual\poddajesie\poddajesie\funkcje1\obj\Debug\funkcje1.exe
+C:\Visual\poddajesie\poddajesie\funkcje1\obj\Debug\funkcje1.pdb
+C:\Visual\poddajesie\poddajesie\funkcje1\obj\Debug\funkcje1.exe.config

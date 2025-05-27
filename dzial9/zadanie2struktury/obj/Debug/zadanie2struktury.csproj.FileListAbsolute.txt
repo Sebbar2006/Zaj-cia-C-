@@ -1,0 +1,7 @@
+C:\Visual\poddajesie\zadanie2struktury\bin\Debug\zadanie2struktury.exe.config
+C:\Visual\poddajesie\zadanie2struktury\bin\Debug\zadanie2struktury.exe
+C:\Visual\poddajesie\zadanie2struktury\bin\Debug\zadanie2struktury.pdb
+C:\Visual\poddajesie\zadanie2struktury\obj\Debug\zadanie2struktury.csproj.AssemblyReference.cache
+C:\Visual\poddajesie\zadanie2struktury\obj\Debug\zadanie2struktury.csproj.CoreCompileInputs.cache
+C:\Visual\poddajesie\zadanie2struktury\obj\Debug\zadanie2struktury.exe
+C:\Visual\poddajesie\zadanie2struktury\obj\Debug\zadanie2struktury.pdb

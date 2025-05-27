@@ -1,8 +1,0 @@
-C:\Visual\poddajesie\poddajesie\funkcjezadanie11\bin\Debug\funkcjezadanie11.exe.config
-C:\Visual\poddajesie\poddajesie\funkcjezadanie11\bin\Debug\funkcjezadanie11.exe
-C:\Visual\poddajesie\poddajesie\funkcjezadanie11\bin\Debug\funkcjezadanie11.pdb
-C:\Visual\poddajesie\poddajesie\funkcjezadanie11\obj\Debug\funkcjezadanie11.csproj.AssemblyReference.cache
-C:\Visual\poddajesie\poddajesie\funkcjezadanie11\obj\Debug\funkcjezadanie11.csproj.CoreCompileInputs.cache
-C:\Visual\poddajesie\poddajesie\funkcjezadanie11\obj\Debug\funkcjezadanie11.exe
-C:\Visual\poddajesie\poddajesie\funkcjezadanie11\obj\Debug\funkcjezadanie11.pdb
-C:\Visual\poddajesie\poddajesie\funkcjezadanie11\obj\Debug\funkcjezadanie11.exe.config

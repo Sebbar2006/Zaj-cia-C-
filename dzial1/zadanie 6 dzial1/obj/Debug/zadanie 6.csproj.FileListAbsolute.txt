@@ -1,0 +1,7 @@
+C:\Visual\Podstawy C#\zadanie 6\bin\Debug\zadanie 6.exe.config
+C:\Visual\Podstawy C#\zadanie 6\bin\Debug\zadanie 6.exe
+C:\Visual\Podstawy C#\zadanie 6\bin\Debug\zadanie 6.pdb
+C:\Visual\Podstawy C#\zadanie 6\obj\Debug\zadanie 6.csproj.AssemblyReference.cache
+C:\Visual\Podstawy C#\zadanie 6\obj\Debug\zadanie 6.csproj.CoreCompileInputs.cache
+C:\Visual\Podstawy C#\zadanie 6\obj\Debug\zadanie 6.exe
+C:\Visual\Podstawy C#\zadanie 6\obj\Debug\zadanie 6.pdb

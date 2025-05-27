@@ -1,0 +1,7 @@
+C:\Visual\Podstawy C#\zadanie1petle\bin\Debug\zadanie1petle.exe.config
+C:\Visual\Podstawy C#\zadanie1petle\bin\Debug\zadanie1petle.exe
+C:\Visual\Podstawy C#\zadanie1petle\bin\Debug\zadanie1petle.pdb
+C:\Visual\Podstawy C#\zadanie1petle\obj\Debug\zadanie1petle.csproj.AssemblyReference.cache
+C:\Visual\Podstawy C#\zadanie1petle\obj\Debug\zadanie1petle.csproj.CoreCompileInputs.cache
+C:\Visual\Podstawy C#\zadanie1petle\obj\Debug\zadanie1petle.exe
+C:\Visual\Podstawy C#\zadanie1petle\obj\Debug\zadanie1petle.pdb

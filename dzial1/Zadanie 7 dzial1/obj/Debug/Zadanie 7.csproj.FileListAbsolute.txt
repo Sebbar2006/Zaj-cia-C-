@@ -1,0 +1,7 @@
+C:\Visual\Podstawy C#\Zadanie 7\bin\Debug\Zadanie 7.exe.config
+C:\Visual\Podstawy C#\Zadanie 7\bin\Debug\Zadanie 7.exe
+C:\Visual\Podstawy C#\Zadanie 7\bin\Debug\Zadanie 7.pdb
+C:\Visual\Podstawy C#\Zadanie 7\obj\Debug\Zadanie 7.csproj.AssemblyReference.cache
+C:\Visual\Podstawy C#\Zadanie 7\obj\Debug\Zadanie 7.csproj.CoreCompileInputs.cache
+C:\Visual\Podstawy C#\Zadanie 7\obj\Debug\Zadanie 7.exe
+C:\Visual\Podstawy C#\Zadanie 7\obj\Debug\Zadanie 7.pdb

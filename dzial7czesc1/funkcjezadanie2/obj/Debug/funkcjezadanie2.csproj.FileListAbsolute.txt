@@ -1,0 +1,7 @@
+C:\Visual\poddajesie\poddajesie\funkcjezadanie2\obj\Debug\funkcjezadanie2.csproj.AssemblyReference.cache
+C:\Visual\poddajesie\poddajesie\funkcjezadanie2\obj\Debug\funkcjezadanie2.csproj.CoreCompileInputs.cache
+C:\Visual\poddajesie\poddajesie\funkcjezadanie2\bin\Debug\funkcjezadanie2.exe.config
+C:\Visual\poddajesie\poddajesie\funkcjezadanie2\bin\Debug\funkcjezadanie2.exe
+C:\Visual\poddajesie\poddajesie\funkcjezadanie2\bin\Debug\funkcjezadanie2.pdb
+C:\Visual\poddajesie\poddajesie\funkcjezadanie2\obj\Debug\funkcjezadanie2.exe
+C:\Visual\poddajesie\poddajesie\funkcjezadanie2\obj\Debug\funkcjezadanie2.pdb

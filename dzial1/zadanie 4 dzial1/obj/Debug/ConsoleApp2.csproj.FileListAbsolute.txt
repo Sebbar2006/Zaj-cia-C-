@@ -1,7 +1,0 @@
-C:\Visual\Podstawy C#\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
-C:\Visual\Podstawy C#\ConsoleApp2\bin\Debug\ConsoleApp2.exe
-C:\Visual\Podstawy C#\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
-C:\Visual\Podstawy C#\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
-C:\Visual\Podstawy C#\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
-C:\Visual\Podstawy C#\ConsoleApp2\obj\Debug\ConsoleApp2.exe
-C:\Visual\Podstawy C#\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

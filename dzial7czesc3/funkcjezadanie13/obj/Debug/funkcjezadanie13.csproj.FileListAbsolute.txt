@@ -1,0 +1,8 @@
+C:\Visual\poddajesie\poddajesie\funkcjezadanie13\bin\Debug\funkcjezadanie13.exe.config
+C:\Visual\poddajesie\poddajesie\funkcjezadanie13\bin\Debug\funkcjezadanie13.exe
+C:\Visual\poddajesie\poddajesie\funkcjezadanie13\bin\Debug\funkcjezadanie13.pdb
+C:\Visual\poddajesie\poddajesie\funkcjezadanie13\obj\Debug\funkcjezadanie13.csproj.AssemblyReference.cache
+C:\Visual\poddajesie\poddajesie\funkcjezadanie13\obj\Debug\funkcjezadanie13.csproj.CoreCompileInputs.cache
+C:\Visual\poddajesie\poddajesie\funkcjezadanie13\obj\Debug\funkcjezadanie13.exe
+C:\Visual\poddajesie\poddajesie\funkcjezadanie13\obj\Debug\funkcjezadanie13.pdb
+C:\Visual\poddajesie\poddajesie\funkcjezadanie13\obj\Debug\funkcjezadanie13.exe.config

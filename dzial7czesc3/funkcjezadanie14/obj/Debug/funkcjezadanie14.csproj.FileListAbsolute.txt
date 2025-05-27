@@ -1,0 +1,8 @@
+C:\Visual\poddajesie\poddajesie\funkcjezadanie14\bin\Debug\funkcjezadanie14.exe.config
+C:\Visual\poddajesie\poddajesie\funkcjezadanie14\bin\Debug\funkcjezadanie14.exe
+C:\Visual\poddajesie\poddajesie\funkcjezadanie14\bin\Debug\funkcjezadanie14.pdb
+C:\Visual\poddajesie\poddajesie\funkcjezadanie14\obj\Debug\funkcjezadanie14.csproj.AssemblyReference.cache
+C:\Visual\poddajesie\poddajesie\funkcjezadanie14\obj\Debug\funkcjezadanie14.csproj.CoreCompileInputs.cache
+C:\Visual\poddajesie\poddajesie\funkcjezadanie14\obj\Debug\funkcjezadanie14.exe
+C:\Visual\poddajesie\poddajesie\funkcjezadanie14\obj\Debug\funkcjezadanie14.pdb
+C:\Visual\poddajesie\poddajesie\funkcjezadanie14\obj\Debug\funkcjezadanie14.exe.config

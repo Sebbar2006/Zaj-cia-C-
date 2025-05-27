@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie1rekurencja", "zadanie1rekurencja.csproj", "{E5A48917-288C-4838-B94C-AA3E7B696664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie2rekurencja", "..\zadanie2rekurencja\zadanie2rekurencja.csproj", "{B4423158-C8F4-44A9-A88C-617569BA3B0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dzial8", "dzial8", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A48917-288C-4838-B94C-AA3E7B696664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A48917-288C-4838-B94C-AA3E7B696664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A48917-288C-4838-B94C-AA3E7B696664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A48917-288C-4838-B94C-AA3E7B696664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4423158-C8F4-44A9-A88C-617569BA3B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4423158-C8F4-44A9-A88C-617569BA3B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4423158-C8F4-44A9-A88C-617569BA3B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4423158-C8F4-44A9-A88C-617569BA3B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E5A48917-288C-4838-B94C-AA3E7B696664} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{B4423158-C8F4-44A9-A88C-617569BA3B0C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13DD5057-D0F7-4007-A1D2-5A40D604B376}
+	EndGlobalSection
+EndGlobal
